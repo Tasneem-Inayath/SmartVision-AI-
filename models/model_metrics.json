@@ -1,0 +1,30 @@
+{
+    "VGG16": {
+        "accuracy": 0.336,
+        "inference_time": 4.48,
+        "macro_f1": 0.32,
+        "weighted_f1": 0.32,
+        "class_report": {}
+    },
+    "ResNet50": {
+        "accuracy": 0.237,
+        "inference_time": 9.02,
+        "macro_f1": 0.23,
+        "weighted_f1": 0.23,
+        "class_report": {}
+    },
+    "MobileNetV2": {
+        "accuracy": 0.595,
+        "inference_time": 10.07,
+        "macro_f1": 0.59,
+        "weighted_f1": 0.59,
+        "class_report": {}
+    },
+    "EfficientNetB0": {
+        "accuracy": 0.04,
+        "inference_time": 13.88,
+        "macro_f1": 0.04,
+        "weighted_f1": 0.04,
+        "class_report": {}
+    }
+}
