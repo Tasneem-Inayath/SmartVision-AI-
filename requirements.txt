@@ -9,3 +9,8 @@ matplotlib
 pandas
 scikit-learn
 requests
+streamlit
+huggingface_hub
+ultralytics
+torch
+Pillow
